@@ -1,0 +1,18 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wzshiming/action-profile-stats@v1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGETS: |
+            git://wzshiming/my-stats/master/stats.svg
+            git://wzshiming/my-stats/master/activities.md
+
