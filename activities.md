@@ -1,8 +1,8 @@
+<!-- PROFILE_STATS
+  template:"activities"
+  username:"wzshiming"
+-->
 
-<details>
-<summary>Activities details updated at <!-- PROFILE_STATS template:"updatedat"-->2021-05-28T00:39:22Z<!-- /PROFILE_STATS --></summary>
-
-<!-- PROFILE_STATS template:"activities" username:"wzshiming" -->
 | Link | Ref | State | Change Size | Commits | Change File |
 | - | - | - | - | - | - |
 | [containerd/containerd#5273](https://github.com/containerd/containerd/pull/5273) | master| Merged (2021-05-27)| S(<font color="#56d364">+8</font>, <font color="#f85149">-4</font>) | 1| 1|
@@ -57,5 +57,3 @@
 | [kubernetes/kubernetes#101093](https://github.com/kubernetes/kubernetes/pull/101093) | master| Merged (2021-04-20)| S(<font color="#56d364">+3</font>, <font color="#f85149">-8</font>) | 2| 2|
 
 <!-- /PROFILE_STATS -->
-
-</details>
