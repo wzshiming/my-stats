@@ -1,6 +1,7 @@
 <!-- PROFILE_STATS
     template:"activities"
     username:"wzshiming"
+    states:"merged,open" 
     span:"12months"
 -->
 
