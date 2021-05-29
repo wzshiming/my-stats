@@ -1,5 +1,5 @@
 # my-stats
 
-![stats](https://raw.githubusercontent.com/wzshiming/my-stats/master/stats.svg)
+![Stats](https://raw.githubusercontent.com/wzshiming/my-stats/master/stats.svg)
 
-[Activities](https://raw.githubusercontent.com/wzshiming/my-stats/master/activities.md)
+[Activities](https://github.com/wzshiming/my-stats/blob/master/activities.md)
