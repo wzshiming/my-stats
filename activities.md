@@ -1,6 +1,6 @@
 <!-- PROFILE_STATS
-  template:"activities"
-  username:"wzshiming"
+    template:"activities"
+    username:"wzshiming"
 -->
 
 | Link | Ref | State | Username | Change Size | Commits | Change File |
