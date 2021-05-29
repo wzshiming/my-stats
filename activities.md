@@ -1,6 +1,7 @@
 <!-- PROFILE_STATS
     template:"activities"
     username:"wzshiming"
+    span:"12months"
 -->
 
 | Link | Ref | State | Username | Change Size | Commits | Change File |
