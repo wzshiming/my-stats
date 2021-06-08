@@ -7,12 +7,14 @@
 
 | Link | Ref | State | Username | Change Size | Commits | Change File |
 | - | - | - | - | - | - | - |
-| [kubernetes/kubernetes#102474](https://github.com/kubernetes/kubernetes/pull/102474) | master| Open (2021-06-01, 2021-06-07)| wzshiming| XL(<font color="#56d364">+706</font>, <font color="#f85149">-39</font>) | 13| 9|
-| [kubernetes/kubernetes#102653](https://github.com/kubernetes/kubernetes/pull/102653) | master| Open (2021-06-07)| wzshiming| XS(<font color="#56d364">+2</font>, <font color="#f85149">-3</font>) | 1| 1|
+| [kubernetes/kubernetes#101795](https://github.com/kubernetes/kubernetes/pull/101795) | release-1.21| Merged (2021-06-08)| wzshiming| XS(<font color="#56d364">+2</font>, <font color="#f85149">-0</font>) | 1| 1|
+| [kubernetes/kubernetes#101796](https://github.com/kubernetes/kubernetes/pull/101796) | release-1.20| Open (2021-05-07, 2021-06-08)| wzshiming| XS(<font color="#56d364">+2</font>, <font color="#f85149">-0</font>) | 1| 1|
+| [kubernetes/kubernetes#102653](https://github.com/kubernetes/kubernetes/pull/102653) | master| Open (2021-06-07, 2021-06-08)| wzshiming| L(<font color="#56d364">+138</font>, <font color="#f85149">-2</font>) | 2| 2|
+| [kubernetes/kubernetes#102471](https://github.com/kubernetes/kubernetes/pull/102471) | master| Merged (2021-06-08)| wzshiming| XS(<font color="#56d364">+4</font>, <font color="#f85149">-4</font>) | 1| 2|
+| [kubernetes/kubernetes#102474](https://github.com/kubernetes/kubernetes/pull/102474) | master| Open (2021-06-01, 2021-06-07)| wzshiming| XL(<font color="#56d364">+707</font>, <font color="#f85149">-39</font>) | 13| 9|
 | [istio/istio#33248](https://github.com/istio/istio/pull/33248) | master| Merged (2021-06-07)| wzshiming| XS(<font color="#56d364">+3</font>, <font color="#f85149">-2</font>) | 1| 1|
 | [kubernetes/enhancements#2661](https://github.com/kubernetes/enhancements/pull/2661) | master| Open (2021-04-29, 2021-06-04)| wzshiming| XL(<font color="#56d364">+608</font>, <font color="#f85149">-0</font>) | 1| 2|
 | [kubernetes/kubernetes#101566](https://github.com/kubernetes/kubernetes/pull/101566) | master| Open (2021-04-28, 2021-06-04)| wzshiming| XXL(<font color="#56d364">+1849</font>, <font color="#f85149">-1331</font>) | 6| 28|
-| [kubernetes/kubernetes#102471](https://github.com/kubernetes/kubernetes/pull/102471) | master| Open (2021-06-01, 2021-06-04)| wzshiming| XS(<font color="#56d364">+4</font>, <font color="#f85149">-4</font>) | 1| 2|
 | [avelino/awesome-go#3620](https://github.com/avelino/awesome-go/pull/3620) | master| Open (2021-06-04)| wzshiming| XS(<font color="#56d364">+3</font>, <font color="#f85149">-0</font>) | 1| 1|
 | [kubernetes/kubernetes#102454](https://github.com/kubernetes/kubernetes/pull/102454) | master| Open (2021-05-31, 2021-06-04)| wzshiming| L(<font color="#56d364">+0</font>, <font color="#f85149">-174</font>) | 1| 39|
 | [kubernetes/kubernetes#100939](https://github.com/kubernetes/kubernetes/pull/100939) | master| Merged (2021-06-04)| wzshiming| L(<font color="#56d364">+109</font>, <font color="#f85149">-17</font>) | 2| 2|
@@ -42,8 +44,6 @@
 | [kubeedge/kubeedge#2718](https://github.com/kubeedge/kubeedge/pull/2718) | master| Open (2021-03-24, 2021-05-24)| wzshiming| M(<font color="#56d364">+14</font>, <font color="#f85149">-19</font>) | 1| 1|
 | [kubeedge/kubeedge#2719](https://github.com/kubeedge/kubeedge/pull/2719) | master| Open (2021-03-24, 2021-05-24)| wzshiming| S(<font color="#56d364">+13</font>, <font color="#f85149">-2</font>) | 1| 1|
 | [kubernetes/kubernetes#102053](https://github.com/kubernetes/kubernetes/pull/102053) | master| Open (2021-05-17, 2021-05-19)| wzshiming| XS(<font color="#56d364">+2</font>, <font color="#f85149">-1</font>) | 2| 1|
-| [kubernetes/kubernetes#101795](https://github.com/kubernetes/kubernetes/pull/101795) | release-1.21| Open (2021-05-07, 2021-05-17)| wzshiming| XS(<font color="#56d364">+2</font>, <font color="#f85149">-0</font>) | 1| 1|
-| [kubernetes/kubernetes#101796](https://github.com/kubernetes/kubernetes/pull/101796) | release-1.20| Open (2021-05-07, 2021-05-17)| wzshiming| XS(<font color="#56d364">+2</font>, <font color="#f85149">-0</font>) | 1| 1|
 | [kubeedge/kubeedge#2753](https://github.com/kubeedge/kubeedge/pull/2753) | master| Open (2021-04-02, 2021-05-13)| wzshiming| XL(<font color="#56d364">+525</font>, <font color="#f85149">-422</font>) | 5| 58|
 | [containerd/containerd#5468](https://github.com/containerd/containerd/pull/5468) | master| Merged (2021-05-10)| wzshiming| XS(<font color="#56d364">+8</font>, <font color="#f85149">-1</font>) | 1| 4|
 | [kubernetes/kubernetes#100326](https://github.com/kubernetes/kubernetes/pull/100326) | master| Merged (2021-05-07)| wzshiming| XS(<font color="#56d364">+2</font>, <font color="#f85149">-0</font>) | 1| 1|
