@@ -7,6 +7,7 @@
 
 |                                                      Link                                                      |        Branch         |             State             | Username  |     Change Size      | Commits | Change File |
 |----------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------|-----------|----------------------|---------|-------------|
+| [avelino/awesome-go#3620](https://github.com/avelino/awesome-go/pull/3620)                                     | master                | Open (2021-06-04, 2021-06-20) | wzshiming | XS (+3, -0)          |       1 |           1 |
 | [kubernetes/kubernetes#98866](https://github.com/kubernetes/kubernetes/pull/98866)                             | master                | Open (2021-02-08, 2021-06-18) | wzshiming | XL (+697, -13)       |       4 |           6 |
 | [kubernetes/enhancements#2661](https://github.com/kubernetes/enhancements/pull/2661)                           | master                | Open (2021-04-29, 2021-06-18) | wzshiming | XL (+608, -0)        |       1 |           2 |
 | [golang/net#105](https://github.com/golang/net/pull/105)                                                       | master                | Open (2021-06-09, 2021-06-17) | wzshiming | S (+10, -0)          |       2 |           2 |
@@ -30,7 +31,6 @@
 | [kubernetes/kubernetes#102471](https://github.com/kubernetes/kubernetes/pull/102471)                           | master                | Merged (2021-06-08)           | wzshiming | XS (+4, -4)          |       1 |           2 |
 | [istio/istio#33248](https://github.com/istio/istio/pull/33248)                                                 | master                | Merged (2021-06-07)           | wzshiming | XS (+3, -2)          |       1 |           1 |
 | [kubernetes/kubernetes#101566](https://github.com/kubernetes/kubernetes/pull/101566)                           | master                | Open (2021-04-28, 2021-06-04) | wzshiming | XXL (+1849, -1331)   |       6 |          28 |
-| [avelino/awesome-go#3620](https://github.com/avelino/awesome-go/pull/3620)                                     | master                | Open (2021-06-04)             | wzshiming | XS (+3, -0)          |       1 |           1 |
 | [kubernetes/kubernetes#100939](https://github.com/kubernetes/kubernetes/pull/100939)                           | master                | Merged (2021-06-04)           | wzshiming | L (+109, -17)        |       2 |           2 |
 | [kubernetes/kubernetes#100851](https://github.com/kubernetes/kubernetes/pull/100851)                           | master                | Open (2021-04-06, 2021-06-04) | wzshiming | L (+155, -0)         |       2 |           6 |
 | [kubernetes/kubernetes#102047](https://github.com/kubernetes/kubernetes/pull/102047)                           | master                | Open (2021-05-17, 2021-06-03) | wzshiming | L (+107, -6)         |       1 |           2 |
