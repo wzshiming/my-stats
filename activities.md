@@ -7,6 +7,8 @@
 
 |                                                      Link                                                      |        Branch         |             State             | Username  |     Change Size      | Commits | Change File |
 |----------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------|-----------|----------------------|---------|-------------|
+| [kubernetes/kubernetes#103106](https://github.com/kubernetes/kubernetes/pull/103106)                           | master                | Open (2021-06-23)             | wzshiming | M (+19, -22)         |       1 |           3 |
+| [istio/istio#33590](https://github.com/istio/istio/pull/33590)                                                 | master                | Open (2021-06-23)             | wzshiming | XS (+2, -1)          |       1 |           1 |
 | [kubernetes/kubernetes#103076](https://github.com/kubernetes/kubernetes/pull/103076)                           | master                | Open (2021-06-22)             | wzshiming | M (+49, -1)          |       1 |           1 |
 | [kubernetes/kubernetes#98866](https://github.com/kubernetes/kubernetes/pull/98866)                             | master                | Open (2021-02-08, 2021-06-21) | wzshiming | XL (+762, -25)       |       4 |           6 |
 | [avelino/awesome-go#3640](https://github.com/avelino/awesome-go/pull/3640)                                     | master                | Open (2021-06-21)             | wzshiming | XS (+1, -0)          |       1 |           1 |
@@ -17,7 +19,6 @@
 | [kubernetes/kubernetes#102915](https://github.com/kubernetes/kubernetes/pull/102915)                           | master                | Open (2021-06-16, 2021-06-17) | wzshiming | XL (+619, -91)       |       8 |          14 |
 | [kubernetes/enhancements#2786](https://github.com/kubernetes/enhancements/pull/2786)                           | master                | Open (2021-06-16)             | wzshiming | XS (+4, -4)          |       1 |           1 |
 | [kubernetes/kubernetes#102554](https://github.com/kubernetes/kubernetes/pull/102554)                           | master                | Merged (2021-06-16)           | wzshiming | S (+6, -6)           |       1 |           1 |
-| [kubernetes/kubernetes#102870](https://github.com/kubernetes/kubernetes/pull/102870)                           | release-1.21          | Open (2021-06-15, 2021-06-16) | wzshiming | L (+142, -29)        |       3 |           4 |
 | [kubernetes/kubernetes#100949](https://github.com/kubernetes/kubernetes/pull/100949)                           | master                | Open (2021-04-09, 2021-06-15) | wzshiming | M (+60, -19)         |       2 |           2 |
 | [kubernetes/kubernetes#102764](https://github.com/kubernetes/kubernetes/pull/102764)                           | master                | Open (2021-06-10, 2021-06-15) | wzshiming | L (+108, -16)        |       4 |          11 |
 | [kubernetes/kubernetes#100369](https://github.com/kubernetes/kubernetes/pull/100369)                           | master                | Merged (2021-06-15)           | wzshiming | L (+133, -19)        |       3 |           4 |
