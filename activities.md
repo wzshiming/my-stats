@@ -8,11 +8,15 @@
 
 |                                                      Link                                                      | Branch |             State             | Username  |     Change Size      | Commits | Change File |
 |----------------------------------------------------------------------------------------------------------------|--------|-------------------------------|-----------|----------------------|---------|-------------|
+| [istio/istio#33995](https://github.com/istio/istio/pull/33995)                                                 | master | Merged (2021-07-13)           | wzshiming | XS (+1, -1)          |       1 |           1 |
+| [istio/istio#33994](https://github.com/istio/istio/pull/33994)                                                 | master | Open (2021-07-13)             | wzshiming | XS (+8, -1)          |       1 |           1 |
+| [istio/istio#33993](https://github.com/istio/istio/pull/33993)                                                 | master | Open (2021-07-13)             | wzshiming | XS (+7, -0)          |       1 |           1 |
+| [kubernetes/kubernetes#103245](https://github.com/kubernetes/kubernetes/pull/103245)                           | master | Open (2021-06-28, 2021-07-13) | wzshiming | L (+134, -2)         |       5 |           6 |
+| [kubeedge/kubeedge#2753](https://github.com/kubeedge/kubeedge/pull/2753)                                       | master | Open (2021-04-02, 2021-07-12) | wzshiming | XL (+525, -422)      |       5 |          58 |
 | [kubernetes/kubernetes#103291](https://github.com/kubernetes/kubernetes/pull/103291)                           | master | Merged (2021-07-09)           | wzshiming | S (+10, -5)          |       2 |           1 |
 | [kubernetes/kubernetes#102915](https://github.com/kubernetes/kubernetes/pull/102915)                           | master | Open (2021-06-16, 2021-07-10) | wzshiming | XXL (+836, -196)     |      13 |          17 |
 | [kubernetes/kubernetes#103257](https://github.com/kubernetes/kubernetes/pull/103257)                           | master | Open (2021-06-28, 2021-07-09) | wzshiming | L (+201, -4)         |       3 |           3 |
 | [kubernetes/kubernetes#100851](https://github.com/kubernetes/kubernetes/pull/100851)                           | master | Open (2021-04-06, 2021-07-09) | wzshiming | L (+155, -0)         |       2 |           6 |
-| [kubernetes/kubernetes#103245](https://github.com/kubernetes/kubernetes/pull/103245)                           | master | Open (2021-06-28, 2021-07-09) | wzshiming | L (+134, -2)         |       5 |           6 |
 | [kubernetes/kubernetes#98866](https://github.com/kubernetes/kubernetes/pull/98866)                             | master | Merged (2021-06-28)           | wzshiming | L (+417, -22)        |       3 |           6 |
 | [kubernetes/kubernetes#103566](https://github.com/kubernetes/kubernetes/pull/103566)                           | master | Open (2021-07-08)             | wzshiming | XS (+2, -2)          |       1 |           1 |
 | [istio/istio#33870](https://github.com/istio/istio/pull/33870)                                                 | master | Merged (2021-07-07)           | wzshiming | XS (+1, -0)          |       1 |           1 |
@@ -59,7 +63,6 @@
 | [containerd/containerd#5519](https://github.com/containerd/containerd/pull/5519)                               | master | Merged (2021-05-20)           | wzshiming | XS (+3, -5)          |       2 |           1 |
 | [kubeedge/kubeedge#2718](https://github.com/kubeedge/kubeedge/pull/2718)                                       | master | Open (2021-03-24, 2021-05-24) | wzshiming | M (+14, -19)         |       1 |           1 |
 | [kubeedge/kubeedge#2719](https://github.com/kubeedge/kubeedge/pull/2719)                                       | master | Open (2021-03-24, 2021-05-24) | wzshiming | S (+13, -2)          |       1 |           1 |
-| [kubeedge/kubeedge#2753](https://github.com/kubeedge/kubeedge/pull/2753)                                       | master | Open (2021-04-02, 2021-05-13) | wzshiming | XL (+525, -422)      |       5 |          58 |
 | [containerd/containerd#5468](https://github.com/containerd/containerd/pull/5468)                               | master | Merged (2021-05-10)           | wzshiming | XS (+8, -1)          |       1 |           4 |
 | [kubernetes/kubernetes#100326](https://github.com/kubernetes/kubernetes/pull/100326)                           | master | Merged (2021-05-07)           | wzshiming | XS (+2, -0)          |       1 |           1 |
 | [istio/istio#32707](https://github.com/istio/istio/pull/32707)                                                 | master | Merged (2021-05-07)           | wzshiming | XS (+0, -5)          |       1 |           1 |
