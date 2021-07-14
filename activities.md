@@ -8,10 +8,11 @@
 
 |                                                      Link                                                      | Branch |             State             | Username  |     Change Size      | Commits | Change File |
 |----------------------------------------------------------------------------------------------------------------|--------|-------------------------------|-----------|----------------------|---------|-------------|
+| [kubeedge/kubeedge#2718](https://github.com/kubeedge/kubeedge/pull/2718)                                       | master | Open (2021-03-24, 2021-07-14) | wzshiming | M (+14, -19)         |       1 |           1 |
+| [kubernetes/kubernetes#103245](https://github.com/kubernetes/kubernetes/pull/103245)                           | master | Merged (2021-07-13)           | wzshiming | L (+134, -2)         |       5 |           6 |
+| [istio/istio#33993](https://github.com/istio/istio/pull/33993)                                                 | master | Merged (2021-07-13)           | wzshiming | XS (+7, -0)          |       1 |           1 |
 | [istio/istio#33995](https://github.com/istio/istio/pull/33995)                                                 | master | Merged (2021-07-13)           | wzshiming | XS (+1, -1)          |       1 |           1 |
 | [istio/istio#33994](https://github.com/istio/istio/pull/33994)                                                 | master | Open (2021-07-13)             | wzshiming | XS (+8, -1)          |       1 |           1 |
-| [istio/istio#33993](https://github.com/istio/istio/pull/33993)                                                 | master | Open (2021-07-13)             | wzshiming | XS (+7, -0)          |       1 |           1 |
-| [kubernetes/kubernetes#103245](https://github.com/kubernetes/kubernetes/pull/103245)                           | master | Open (2021-06-28, 2021-07-13) | wzshiming | L (+134, -2)         |       5 |           6 |
 | [kubeedge/kubeedge#2753](https://github.com/kubeedge/kubeedge/pull/2753)                                       | master | Open (2021-04-02, 2021-07-12) | wzshiming | XL (+525, -422)      |       5 |          58 |
 | [kubernetes/kubernetes#103291](https://github.com/kubernetes/kubernetes/pull/103291)                           | master | Merged (2021-07-09)           | wzshiming | S (+10, -5)          |       2 |           1 |
 | [kubernetes/kubernetes#102915](https://github.com/kubernetes/kubernetes/pull/102915)                           | master | Open (2021-06-16, 2021-07-10) | wzshiming | XXL (+836, -196)     |      13 |          17 |
@@ -61,7 +62,6 @@
 | [istio/istio#32977](https://github.com/istio/istio/pull/32977)                                                 | master | Merged (2021-05-21)           | wzshiming | M (+20, -13)         |       1 |           2 |
 | [containerd/containerd#5520](https://github.com/containerd/containerd/pull/5520)                               | master | Merged (2021-05-20)           | wzshiming | XS (+0, -1)          |       1 |           1 |
 | [containerd/containerd#5519](https://github.com/containerd/containerd/pull/5519)                               | master | Merged (2021-05-20)           | wzshiming | XS (+3, -5)          |       2 |           1 |
-| [kubeedge/kubeedge#2718](https://github.com/kubeedge/kubeedge/pull/2718)                                       | master | Open (2021-03-24, 2021-05-24) | wzshiming | M (+14, -19)         |       1 |           1 |
 | [kubeedge/kubeedge#2719](https://github.com/kubeedge/kubeedge/pull/2719)                                       | master | Open (2021-03-24, 2021-05-24) | wzshiming | S (+13, -2)          |       1 |           1 |
 | [containerd/containerd#5468](https://github.com/containerd/containerd/pull/5468)                               | master | Merged (2021-05-10)           | wzshiming | XS (+8, -1)          |       1 |           4 |
 | [kubernetes/kubernetes#100326](https://github.com/kubernetes/kubernetes/pull/100326)                           | master | Merged (2021-05-07)           | wzshiming | XS (+2, -0)          |       1 |           1 |
