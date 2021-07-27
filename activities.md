@@ -8,12 +8,14 @@
 
 |                                                      Link                                                      | Branch |             State             | Username  |     Change Size      | Commits | Change File |
 |----------------------------------------------------------------------------------------------------------------|--------|-------------------------------|-----------|----------------------|---------|-------------|
-| [kubernetes/kubernetes#103908](https://github.com/kubernetes/kubernetes/pull/103908)                           | master | Open (2021-07-26)             | wzshiming | XS (+1, -1)          |       1 |           1 |
+| [DaoCloud-OpenSource/kubepatch#23](https://github.com/DaoCloud-OpenSource/kubepatch/pull/23)                   | master | Open (2021-07-23, 2021-07-27) | wzshiming | L (+243, -110)       |       4 |          12 |
+| [DaoCloud-OpenSource/kubepatch#27](https://github.com/DaoCloud-OpenSource/kubepatch/pull/27)                   | master | Merged (2021-07-27)           | wzshiming | XS (+1, -0)          |       1 |           1 |
+| [DaoCloud-OpenSource/kubepatch#26](https://github.com/DaoCloud-OpenSource/kubepatch/pull/26)                   | master | Merged (2021-07-27)           | wzshiming | S (+26, -0)          |       1 |           2 |
+| [DaoCloud-OpenSource/kubepatch#25](https://github.com/DaoCloud-OpenSource/kubepatch/pull/25)                   | master | Merged (2021-07-27)           | wzshiming | XS (+2, -2)          |       1 |           2 |
+| [kubernetes/kubernetes#103908](https://github.com/kubernetes/kubernetes/pull/103908)                           | master | Open (2021-07-26, 2021-07-27) | wzshiming | XS (+1, -1)          |       1 |           1 |
 | [kubernetes/kubernetes#103903](https://github.com/kubernetes/kubernetes/pull/103903)                           | master | Open (2021-07-26)             | wzshiming | XS (+2, -1)          |       1 |           1 |
 | [istio/istio#34201](https://github.com/istio/istio/pull/34201)                                                 | master | Merged (2021-07-26)           | wzshiming | M (+19, -19)         |       1 |           2 |
-| [kubernetes/kubernetes#103904](https://github.com/kubernetes/kubernetes/pull/103904)                           | master | Open (2021-07-26)             | wzshiming | XS (+2, -2)          |       1 |           1 |
 | [istio/istio#33994](https://github.com/istio/istio/pull/33994)                                                 | master | Open (2021-07-13, 2021-07-26) | wzshiming | XS (+5, -1)          |       1 |           1 |
-| [DaoCloud-OpenSource/kubepatch#23](https://github.com/DaoCloud-OpenSource/kubepatch/pull/23)                   | master | Open (2021-07-23)             | wzshiming | XXL (+1056, -136)    |       1 |           8 |
 | [DaoCloud-OpenSource/kubepatch#24](https://github.com/DaoCloud-OpenSource/kubepatch/pull/24)                   | master | Merged (2021-07-23)           | wzshiming | L (+333, -0)         |       1 |           3 |
 | [DaoCloud-OpenSource/kubepatch#21](https://github.com/DaoCloud-OpenSource/kubepatch/pull/21)                   | master | Merged (2021-07-23)           | wzshiming | L (+283, -82)        |       2 |           5 |
 | [DaoCloud-OpenSource/kubepatch#22](https://github.com/DaoCloud-OpenSource/kubepatch/pull/22)                   | master | Merged (2021-07-23)           | wzshiming | M (+51, -3)          |       1 |           2 |
