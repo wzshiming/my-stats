@@ -8,7 +8,7 @@
 
 |                                                      Link                                                      | Branch |             State             | Username  |     Change Size      | Commits | Change File |
 |----------------------------------------------------------------------------------------------------------------|--------|-------------------------------|-----------|----------------------|---------|-------------|
-| [DaoCloud-OpenSource/kubepatch#23](https://github.com/DaoCloud-OpenSource/kubepatch/pull/23)                   | master | Open (2021-07-23, 2021-07-27) | wzshiming | L (+243, -110)       |       4 |          12 |
+| [DaoCloud-OpenSource/kubepatch#23](https://github.com/DaoCloud-OpenSource/kubepatch/pull/23)                   | master | Open (2021-07-23, 2021-07-28) | wzshiming | XXL (+1308, -161)    |       7 |          16 |
 | [DaoCloud-OpenSource/kubepatch#27](https://github.com/DaoCloud-OpenSource/kubepatch/pull/27)                   | master | Merged (2021-07-27)           | wzshiming | XS (+1, -0)          |       1 |           1 |
 | [DaoCloud-OpenSource/kubepatch#26](https://github.com/DaoCloud-OpenSource/kubepatch/pull/26)                   | master | Merged (2021-07-27)           | wzshiming | S (+26, -0)          |       1 |           2 |
 | [DaoCloud-OpenSource/kubepatch#25](https://github.com/DaoCloud-OpenSource/kubepatch/pull/25)                   | master | Merged (2021-07-27)           | wzshiming | XS (+2, -2)          |       1 |           2 |
