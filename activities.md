@@ -5,6 +5,8 @@
     states:"merged,open"
     span:"12months"
 -->
+<!-- profile_stats_error error:"list PullRequests \"wzshiming\": Post \"https://api.github.com/graphql\": unexpected EOF" date:"2021-11-11T12:04:09Z" /-->
+
 <!-- profile_stats_error error:"list PullRequests \"wzshiming\": Something went wrong while executing your query. Please include `0740:76C0:ABB32B:17B7160:618BB54E` when reporting this issue." date:"2021-11-10T12:04:41Z" /-->
 
 
