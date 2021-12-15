@@ -5,6 +5,8 @@
     states:"merged,open"
     span:"12months"
 -->
+<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"{\\n   \\\"data\\\": null,\\n   \\\"errors\\\":[\\n      {\\n         \\\"message\\\":\\\"Something went wrong while executing your query. This may be the result of a timeout, or it could be a GitHub bug. Please include `0442:326A:5B607E:5FE2C6:61B9DA44` when reporting this issue.\\\"\\n      }\\n   ]\\n}\\n\"" date:"2021-12-15T12:06:42Z" /-->
+
 <!-- profile_stats_error error:"list PullRequests \"wzshiming\": Post \"https://api.github.com/graphql\": unexpected EOF" date:"2021-12-14T12:06:40Z" /-->
 
 <!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"{\\n   \\\"data\\\": null,\\n   \\\"errors\\\":[\\n      {\\n         \\\"message\\\":\\\"Something went wrong while executing your query. This may be the result of a timeout, or it could be a GitHub bug. Please include `0402:3CA2:E57C18:1D9A4F1:61B73756` when reporting this issue.\\\"\\n      }\\n   ]\\n}\\n\"" date:"2021-12-13T12:07:00Z" /-->
