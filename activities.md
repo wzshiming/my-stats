@@ -5,6 +5,8 @@
     states:"merged,open"
     span:"12months"
 -->
+<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"{\\n   \\\"data\\\": null,\\n   \\\"errors\\\":[\\n      {\\n         \\\"message\\\":\\\"Something went wrong while executing your query. This may be the result of a timeout, or it could be a GitHub bug. Please include `0542:1601:2C224:6CC2E:61F92267` when reporting this issue.\\\"\\n      }\\n   ]\\n}\\n\"" date:"2022-02-01T12:07:22Z" /-->
+
 
 |                                                      Link                                                      | Branch |               State                | Username  |  Change Size/Commits/File   |                                                                                                                                           Labels                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------|--------|------------------------------------|-----------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
