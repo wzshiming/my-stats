@@ -5,13 +5,10 @@
     states:"merged,open"
     span:"12months"
 -->
-<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"<html>\\r\\n<head><title>502 Bad Gateway</title></head>\\r\\n<body>\\r\\n<center><h1>502 Bad Gateway</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n</body>\\r\\n</html>\\r\\n\"" date:"2025-11-08T12:00:38Z" /-->
-
-<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"<html>\\r\\n<head><title>502 Bad Gateway</title></head>\\r\\n<body>\\r\\n<center><h1>502 Bad Gateway</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n</body>\\r\\n</html>\\r\\n\"" date:"2025-11-07T12:00:39Z" /-->
-
 
 |                                                   Link                                                   | Branch |               State                | Username  | Change Size/Commits/File  |                                                                Labels                                                                 |
 |----------------------------------------------------------------------------------------------------------|--------|------------------------------------|-----------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| [DaoCloud/public-image-mirror#44280](https://github.com/DaoCloud/public-image-mirror/pull/44280)         | main   | Merged<br/>2025-11-07              | wzshiming | XS<br/>(+2,-0)/1/1        |                                                                                                                                       |
 | [OpenCIDN/cidn#59](https://github.com/OpenCIDN/cidn/pull/59)                                             | main   | Merged<br/>2025-11-06              | wzshiming | L<br/>(+73,-55)/1/2       |                                                                                                                                       |
 | [OpenCIDN/ocimirror#52](https://github.com/OpenCIDN/ocimirror/pull/52)                                   | main   | Merged<br/>2025-11-05              | wzshiming | L<br/>(+461,-32)/4/7      |                                                                                                                                       |
 | [DaoCloud/public-image-mirror#44241](https://github.com/DaoCloud/public-image-mirror/pull/44241)         | main   | Merged<br/>2025-11-03              | wzshiming | XS<br/>(+2,-0)/1/1        |                                                                                                                                       |
