@@ -5,11 +5,11 @@
     states:"merged,open"
     span:"12months"
 -->
-<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"<html>\\r\\n<head><title>502 Bad Gateway</title></head>\\r\\n<body>\\r\\n<center><h1>502 Bad Gateway</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n</body>\\r\\n</html>\\r\\n\"" date:"2025-11-20T12:00:41Z" /-->
-
 
 |                                                   Link                                                   | Branch |               State                | Username  | Change Size/Commits/File  |                                                                Labels                                                                 |
 |----------------------------------------------------------------------------------------------------------|--------|------------------------------------|-----------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| [DaoCloud/public-image-mirror#44410](https://github.com/DaoCloud/public-image-mirror/pull/44410)         | main   | Merged<br/>2025-11-21              | wzshiming | XS<br/>(+3,-0)/1/1        |                                                                                                                                       |
+| [DaoCloud/public-image-mirror#44399](https://github.com/DaoCloud/public-image-mirror/pull/44399)         | main   | Merged<br/>2025-11-20              | wzshiming | XS<br/>(+1,-1)/1/1        |                                                                                                                                       |
 | [DaoCloud/public-image-mirror#44388](https://github.com/DaoCloud/public-image-mirror/pull/44388)         | main   | Merged<br/>2025-11-19              | wzshiming | XS<br/>(+1,-0)/1/1        |                                                                                                                                       |
 | [DaoCloud/public-image-mirror#44387](https://github.com/DaoCloud/public-image-mirror/pull/44387)         | main   | Merged<br/>2025-11-19              | wzshiming | S<br/>(+0,-20)/1/1        |                                                                                                                                       |
 | [DaoCloud/public-image-mirror#44385](https://github.com/DaoCloud/public-image-mirror/pull/44385)         | main   | Merged<br/>2025-11-19              | wzshiming | L<br/>(+70,-68)/1/3       |                                                                                                                                       |
