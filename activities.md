@@ -5,14 +5,11 @@
     states:"merged,open"
     span:"12months"
 -->
-<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"<html>\\r\\n<head><title>502 Bad Gateway</title></head>\\r\\n<body>\\r\\n<center><h1>502 Bad Gateway</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n</body>\\r\\n</html>\\r\\n\"" date:"2025-12-23T12:00:41Z" /-->
-
-<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"<html>\\r\\n<head><title>502 Bad Gateway</title></head>\\r\\n<body>\\r\\n<center><h1>502 Bad Gateway</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n</body>\\r\\n</html>\\r\\n\"" date:"2025-12-22T12:00:36Z" /-->
-
 
 |                                                   Link                                                   | Branch |               State                | Username  | Change Size/Commits/File  |                                                                Labels                                                                 |
 |----------------------------------------------------------------------------------------------------------|--------|------------------------------------|-----------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| [vllm-project/vllm#30686](https://github.com/vllm-project/vllm/pull/30686)                               | main   | Open<br/>2025-12-15<br/>2025-12-19 | wzshiming | XS<br/>(+4,-5)/1/2        | ready<br/>ci/build                                                                                                                    |
+| [vllm-project/vllm#30686](https://github.com/vllm-project/vllm/pull/30686)                               | main   | Open<br/>2025-12-15<br/>2025-12-23 | wzshiming | XS<br/>(+4,-5)/1/2        | ready<br/>ci/build                                                                                                                    |
+| [DaoCloud/public-image-mirror#44638](https://github.com/DaoCloud/public-image-mirror/pull/44638)         | main   | Merged<br/>2025-12-22              | wzshiming | XS<br/>(+4,-0)/1/1        |                                                                                                                                       |
 | [DaoCloud/public-image-mirror#44616](https://github.com/DaoCloud/public-image-mirror/pull/44616)         | main   | Merged<br/>2025-12-19              | wzshiming | XS<br/>(+2,-0)/1/1        |                                                                                                                                       |
 | [DaoCloud/public-image-mirror#44612](https://github.com/DaoCloud/public-image-mirror/pull/44612)         | main   | Merged<br/>2025-12-18              | wzshiming | XS<br/>(+2,-0)/1/2        |                                                                                                                                       |
 | [kubernetes-sigs/kwok#1501](https://github.com/kubernetes-sigs/kwok/pull/1501)                           | main   | Merged<br/>2025-12-17              | wzshiming | XS<br/>(+2,-2)/1/1        | approved<br/>kind/failing-test<br/>size/XS<br/>cncf-cla:&nbsp;yes<br/>release-note-none                                               |
