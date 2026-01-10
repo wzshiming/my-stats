@@ -5,13 +5,11 @@
     states:"merged,open"
     span:"12months"
 -->
-<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"<html>\\r\\n<head><title>502 Bad Gateway</title></head>\\r\\n<body>\\r\\n<center><h1>502 Bad Gateway</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n</body>\\r\\n</html>\\r\\n\"" date:"2026-01-09T12:00:41Z" /-->
-
-<!-- profile_stats_error error:"list PullRequests \"wzshiming\": non-200 OK status code: 502 Bad Gateway body: \"<html>\\r\\n<head><title>502 Bad Gateway</title></head>\\r\\n<body>\\r\\n<center><h1>502 Bad Gateway</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n</body>\\r\\n</html>\\r\\n\"" date:"2026-01-08T12:00:39Z" /-->
-
 
 |                                                   Link                                                   | Branch |               State                | Username  | Change Size/Commits/File  |                                                                    Labels                                                                     |
 |----------------------------------------------------------------------------------------------------------|--------|------------------------------------|-----------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| [DaoCloud/public-image-mirror#44785](https://github.com/DaoCloud/public-image-mirror/pull/44785)         | main   | Merged<br/>2026-01-09              | wzshiming | XS<br/>(+1,-0)/1/1        |                                                                                                                                               |
+| [DaoCloud/public-image-mirror#44784](https://github.com/DaoCloud/public-image-mirror/pull/44784)         | main   | Merged<br/>2026-01-09              | wzshiming | XS<br/>(+5,-0)/1/1        |                                                                                                                                               |
 | [DaoCloud/public-image-mirror#44734](https://github.com/DaoCloud/public-image-mirror/pull/44734)         | main   | Merged<br/>2026-01-04              | wzshiming | XS<br/>(+2,-0)/1/1        |                                                                                                                                               |
 | [vllm-project/vllm#31527](https://github.com/vllm-project/vllm/pull/31527)                               | main   | Open<br/>2025-12-30                | wzshiming | XS<br/>(+1,-0)/1/1        | frontend                                                                                                                                      |
 | [vllm-project/vllm#30686](https://github.com/vllm-project/vllm/pull/30686)                               | main   | Open<br/>2025-12-15<br/>2025-12-30 | wzshiming | M<br/>(+38,-37)/1/8       | ready<br/>ci/build<br/>cpu                                                                                                                    |
