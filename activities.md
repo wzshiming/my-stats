@@ -5,6 +5,8 @@
     states:"merged,open"
     span:"12months"
 -->
+<!-- profile_stats_error error:"list PullRequests \"wzshiming\": Post \"https://api.github.com/graphql\": stream error: stream ID 1; CANCEL" date:"2026-06-03T13:23:33Z" /-->
+
 <!-- profile_stats_error error:"list PullRequests \"wzshiming\": EOF" date:"2026-06-02T13:03:03Z" /-->
 
 
